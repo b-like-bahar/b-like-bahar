@@ -1,5 +1,7 @@
 ## Hi there 👋
+I hold a B.Sc. in Physics and an M.Sc. in Biophysics from the University of Alberta, and I am currently transitioning into software engineering. With a passion for web development and coding, I am applying my analytical and problem-solving skills from physics to develop efficient and impactful software solutions.
 
+I am currently focused on building web applications and expanding my knowledge in front-end and back-end development, with a growing portfolio of projects available here on GitHub. Always driven by curiosity and continuous improvement, I am excited to collaborate on meaningful projects and contribute to the developer community.
 <!--
 **b-like-bahar/b-like-bahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
