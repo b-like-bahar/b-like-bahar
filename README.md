@@ -8,9 +8,9 @@
 
 <br />
 
-- 🔭 I’m currently working on [JourneyNook](https://github.com/b-like-bahar/JourneyNook.git)
+- 🔭 I’m currently working on [WebVerse](https://github.com/b-like-bahar/WebVerse.git)
 
-- 🌱 I’m currently learning **TypeScript, Django, Python**
+- 🌱 I’m currently learning **NextJS, TypeScript, TailWindCSS, and Python**
 
 - ⚡ Fun fact about me **I’ve rewatched The Office so many times, I can probably quote every line before it happens!**
 
