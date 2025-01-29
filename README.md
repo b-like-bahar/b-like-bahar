@@ -8,7 +8,7 @@
 
 <br />
 
-- 🔭 I’m currently working on [WebVerse](https://github.com/b-like-bahar/WebVerse.git)
+- 🔭 I’m currently working on [WebIdeasSprout](https://github.com/b-like-bahar/WebIdeasSprout.git)
 
 - 🌱 I’m currently learning **NextJS, TypeScript, TailWindCSS, and Python**
 
