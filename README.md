@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [WebIdeasSprout](https://github.com/b-like-bahar/WebIdeasSprout.git)
 
-- 🌱 I’m currently learning **NextJS, TypeScript, TailWindCSS, and Python**
+- 🌱 I’m currently learning **Angular**
 
 - ⚡ Fun fact about me **I’ve rewatched The Office so many times, I can probably quote every line before it happens!**
 
