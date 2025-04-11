@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on my internship project **Deepflow**
 
-- 🌱 I’m currently learning about **Data Structures and Algorithms and React Native**
+- 🌱 I’m currently learning about **React Native, Data Structures and Algorithms**
 
 - ⚡ Fun fact about me **I’ve rewatched The Office so many times, I can probably quote every line before it happens!**
 
