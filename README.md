@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on my internship project **Deepflow**
 
-- 🌱 I’m currently learning about **React Native, Data Structures and Algorithms**
-
 - ⚡ Fun fact about me **I’ve rewatched The Office so many times, I can probably quote every line before it happens!**
 
 
@@ -33,8 +31,8 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,next,html,css,sass,tailwind,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mysql,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=react,next,html,css,sass,tailwind,vscode,notion,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,supabase,express,mysql,postman" /><br>
 </div>
 
 <br/>
