@@ -8,7 +8,7 @@
 
 <br />
 
-- 🔭 I’m currently working on my internship project at **Deepflow Lab**
+- 🔭 I’m currently working as a software enginerr at **Deepflow Labs**
 - 🛠️ I just made my [**first open-source contribution**](https://github.com/emilkowalski/sonner/pull/660) to the **Sonner** repo.
 - ⚡ Fun fact about me **I’ve rewatched The Office so many times, I can probably quote every line before it happens!**
 
