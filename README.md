@@ -8,9 +8,10 @@
 
 <br />
 
-- 🔭 I’m currently working as a software enginerr at **Deepflow Labs**
+- 🔭 I’m currently working as a software engineer at **Deepflow Labs**
 - 🛠️ I just made my [**first open-source contribution**](https://github.com/emilkowalski/sonner/pull/660) to the **Sonner** repo.
-- ⚡ Fun fact about me **I’ve rewatched The Office so many times, I can probably quote every line before it happens!**
+- ⚡ Fun fact about me **I do my best thinking when the world is asleep!**
+- 🍭 If you like to know more about me check my portfolio at [**baharhamzeh.com**](https://baharhamzeh.com)
 
 
  <div align="center"> 
@@ -31,8 +32,8 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,next,html,css,sass,tailwind,vscode,notion,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,supabase,express,mysql,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,tailwind,sass,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=python,supabase,mysql,vercel,postman,git,github,vscode,notion" /><br>
 </div>
 
 <br/>
