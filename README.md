@@ -11,7 +11,6 @@
 - 🔭 I’m currently working as a software engineer at **Deepflow Labs**
 - 🛠️ I just made my [**first open-source contribution**](https://github.com/emilkowalski/sonner/pull/660) to the **Sonner** repo.
 - ⚡ Fun fact about me **I do my best thinking when the world is asleep!**
-- 🍭 If you like to know more about me check my portfolio at [**baharhamzeh.com**](https://baharhamzeh.com)
 
 
  <div align="center"> 
@@ -21,7 +20,7 @@
   <a href="https://www.linkedin.com/in/bahareh-hamzeh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://blikebahar.netlify.app/" target="_blank">
+  <a href="https://baharhamzeh.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
