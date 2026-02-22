@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bahar+Hamzeh!;" />
 </h1>
 
-<h3 align="center">Software Engineer Who Thinks Like a Physicist from Canada 🇨🇦</h3>
+<h3 align="center">Software Engineer Who Thinks Like a Physicist from Toronto, Ontario, Canada 🇨🇦</h3>
 
 <br />
 
