@@ -8,7 +8,7 @@
 
 <br />
 
-- 🔭 I’m currently working as a software engineer at **Deepflow Labs**
+- 🔭 I’m currently working as a Web Developer at **KDPI**
 - 🛠️ I just made my [**first open-source contribution**](https://github.com/emilkowalski/sonner/pull/660) to the **Sonner** repo.
 - ⚡ Fun fact about me **I do my best thinking when the world is asleep!**
 
